@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/1240120550501/DemoProject/_apis/build/status%2FDemoProject-CI?branchName=main)](https://dev.azure.com/1240120550501/DemoProject/_build/latest?definitionId=24&branchName=main)
